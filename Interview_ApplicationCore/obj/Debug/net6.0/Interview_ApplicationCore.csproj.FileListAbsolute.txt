@@ -1,0 +1,12 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/bin/Debug/net6.0/Interview_ApplicationCore.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/bin/Debug/net6.0/Interview_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/bin/Debug/net6.0/Interview_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/refint/Interview_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/Interview_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_ApplicationCore/obj/Debug/net6.0/ref/Interview_ApplicationCore.dll

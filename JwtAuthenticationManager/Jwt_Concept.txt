@@ -1,0 +1,51 @@
+﻿[Secure Microservice]
+
+OAuth 2.0 stands for "Open Authorization" is an open standard (RFC 6749, industry standard for now),
+allows websites to access resources hosted by another web apps on behalf of a user.
+
+OpenID connect is a specification as to how to issue ID tokens.
+
+
+[ID Token vs Access Token]
+
+    [ID token]
+      is a credential meant for the client itself, rather tahn for accessing a resource.
+      it has a fixed format that clients can parse and validate.
+        -> format: JWT
+      Ex: When we logs in to GitHub with Google account, Google issues an ID token to GitHub with our info.
+          GitHub then use the contents in ID token to grant access for us to use their service.
+
+    [Access token]
+      is a credential used by an application to access an API.
+      it informs the API that the token bearer(holder) has been authorized to access the API and
+      perform sepcific actions specified by the granted scope.
+        -> popular formats: opaque string, JWT
+
+
+[JWT] (pronounced as "jot")
+    stands for JSON web token is an open standard (RFC 7519) token that defines
+    a compact and self-contained way for securely transimitting information between parties as a JSON object.
+
+    -> Pros:
+        relatively small size
+        can be sent through a URL / POST parameter / inside HTTP header
+        transimmited fast
+        reduce # of requests send to database
+
+    -> JWT structure:
+        
+        [JOSE header] JSON Object Signing and Encrytion Header
+            - Encrytion Algorithm: HMAC, SHA256, RSA
+            - Type of JWT
+
+        [JWT payload] -> called Claims, contains statements about entity
+            - name (user name)
+            - role (user role)
+            - etc..
+
+        [JWT Signature] -> used to varify issuer and ensure message unchanged during transmission.
+            Use algorithm specifyied in the header to hashed:
+                - Base64-encoded header + "." +
+                - Base64-encoded payload +
+                - secret key
+

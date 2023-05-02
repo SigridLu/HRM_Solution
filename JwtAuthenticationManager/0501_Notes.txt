@@ -1,0 +1,13 @@
+﻿For Authentication_API, we will be using Identity.EntityFrameworkCore to deal with accounts and authentications.
+Because [Microsoft.ASP.NET CORE Identity.EntityFrameworkCore] provides the following services:
+1. It will handle the operations to create user account, validate user account
+2. 2 Factor validations
+
+IdentityUser<TKey> class:
+has properties we can use for creating account.
+We can create customized class for other properties and inherit IdentityUser class.
+
+IdentityDbContext is a DbContext that available for IdentityUser package.
+Because the entities(tables) of IdentityUser are predefined in package,
+instead of creating our own entity and migrate to database,
+we can directly call IdentityDbContext and migrate to database.

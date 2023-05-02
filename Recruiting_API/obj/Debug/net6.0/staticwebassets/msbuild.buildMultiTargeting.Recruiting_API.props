@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Recruiting_API.props" />
+</Project>

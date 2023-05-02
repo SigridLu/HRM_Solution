@@ -1,0 +1,14 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/bin/Debug/net6.0/Recruiting_ApplicationCore.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/bin/Debug/net6.0/Recruiting_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/bin/Debug/net6.0/Recruiting_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/refint/Recruiting_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/ref/Recruiting_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/bin/Debug/net6.0/Recruiting_ApplicationCore.runtimeconfig.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Recruiting_ApplicationCore/obj/Debug/net6.0/Recruiting_ApplicationCore.genruntimeconfig.cache

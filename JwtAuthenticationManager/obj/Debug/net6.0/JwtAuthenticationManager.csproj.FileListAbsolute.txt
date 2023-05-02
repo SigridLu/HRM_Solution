@@ -1,0 +1,12 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/refint/JwtAuthenticationManager.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/JwtAuthenticationManager/obj/Debug/net6.0/ref/JwtAuthenticationManager.dll

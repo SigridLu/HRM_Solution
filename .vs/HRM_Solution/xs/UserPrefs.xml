@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{641C483A-5518-422C-A178-3CE4E73DC6AF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Recruiting.Recruiting__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Authentication_API/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="Recruiting_API/Controllers/CandidateController.cs" Line="12" Column="13" />
+      <File FileName="Authentication_API/Controllers/AccountController.cs" Line="24" Column="97" />
+      <File FileName="Authentication_API/Program.cs" Line="58" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRM_Solution" expanded="True">
+            <Node name="Authentication" expanded="True">
+              <Node name="Authentication_API" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="AccountController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Interview" expanded="True">
+              <Node name="Interview_API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Recruiting" expanded="True">
+              <Node name="Recruiting_API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

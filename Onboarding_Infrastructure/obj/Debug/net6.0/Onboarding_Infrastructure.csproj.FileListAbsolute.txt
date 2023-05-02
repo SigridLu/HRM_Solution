@@ -1,0 +1,17 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_Infrastructure.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.csproj.CopyComplete
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/refint/Onboarding_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/ref/Onboarding_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/bin/Debug/net6.0/Onboarding_Infrastructure.runtimeconfig.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Onboarding_Infrastructure/obj/Debug/net6.0/Onboarding_Infrastructure.genruntimeconfig.cache

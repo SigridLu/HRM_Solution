@@ -1,0 +1,15 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/bin/Debug/net6.0/Interview_Infrastructure.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/bin/Debug/net6.0/Interview_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/bin/Debug/net6.0/Interview_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/bin/Debug/net6.0/Interview_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/bin/Debug/net6.0/Interview_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.csproj.CopyComplete
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/refint/Interview_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/Interview_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Interview_Infrastructure/obj/Debug/net6.0/ref/Interview_Infrastructure.dll

@@ -1,0 +1,17 @@
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_Infrastructure.deps.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.csproj.AssemblyReference.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.AssemblyInfoInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.AssemblyInfo.cs
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/refint/Authentication_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/ref/Authentication_Infrastructure.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_Infrastructure.runtimeconfig.json
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_ApplicationCore.dll
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/bin/Debug/net6.0/Authentication_ApplicationCore.pdb
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.csproj.CopyComplete
+/Users/sigridlu/Desktop/Files/Antra/C#/HRM_Solution/Authentication_Infrastructure/obj/Debug/net6.0/Authentication_Infrastructure.genruntimeconfig.cache
